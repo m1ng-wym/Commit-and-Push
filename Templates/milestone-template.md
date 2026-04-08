@@ -1,10 +1,10 @@
-# YYYY-MM-DD
+# YY-MM-DD-W00X
 
-Tags: #tag1 #tag2 (今天主要涉及的主题)
-Energy: 7/10
-Focus: 今日重点 (今天最核心的主线)
-Output: 1 note / 0 review
-Status: steady：稳步推进 / exploring：在探索、试方向 / stuck：有点卡住 / messy：推进了，但比较乱 / resetting：在调整、重整 / deepening：在往深处补 / shipping：在落地、产出...
+- Tags: #tag1 #tag2 (今天主要涉及的主题)
+- Energy: 7/10
+- Focus: 今日重点 (今天最核心的主线)
+- Output: 1 note / 0 review
+- Status: steady：稳步推进 / exploring：在探索、试方向 / stuck：有点卡住 / messy：推进了，但比较乱 / resetting：在调整、重整 / deepening：在往深处补 / shipping：在落地、产出...
 
 ---
 
